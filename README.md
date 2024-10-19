@@ -4,7 +4,9 @@ Hello world
 
 ---
 
-[Blog](https://blog.chenx221.cyou)
+[WordPress Blog](https://blog.chenx221.cyou)
+
+[Ghost Blog](https://iloli.one)
 
 [Self-host Gitea](https://git.chenx221.cyou)
 
@@ -12,6 +14,6 @@ Hello world
 
 [Self-host Seafile](https://hub.chenx221.cyou)
 
-[Server Status](https://grafana.chenx221.cyou)
+<del>[Server Status](https://grafana.chenx221.cyou)</del>
 
 [Software](https://disk.chenx221.cyou/?dir=Software)
