@@ -17,3 +17,7 @@ Hello world
 <del>[Server Status](https://grafana.chenx221.cyou)</del>
 
 [Software](https://disk.chenx221.cyou/?dir=Software)
+
+---
+
+没什么用的站点: https://locallhost.xyz https://rm-rf.wiki
