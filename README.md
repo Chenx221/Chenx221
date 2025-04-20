@@ -8,7 +8,7 @@ Hello world
 
 [Ghost Blog](https://iloli.one)
 
-[Self-host Gitea](https://git.chenx221.cyou)
+[Self-host Gitea](https://git.chenx221.cyou) (近期爬虫严重影响gitea实例性能，现已对访客部分功能施加限制)
 
 [Self-host Nextcloud](https://beta.chenx221.cyou)
 
