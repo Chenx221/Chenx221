@@ -14,7 +14,7 @@ Hello world
 
 [Self-host Seafile](https://hub.chenx221.cyou)
 
-[Software]([https://disk.chenx221.cyou/?dir=Software](https://disk.chenx221.cyou/Software/))
+[Software](https://disk.chenx221.cyou/Software/)
 
 ---
 
