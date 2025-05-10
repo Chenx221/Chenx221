@@ -8,15 +8,13 @@ Hello world
 
 [Ghost Blog](https://iloli.one)
 
-[Self-host Gitea](https://git.chenx221.cyou) (近期爬虫严重影响gitea实例性能，现已对访客部分功能施加限制)
+[Self-host Gitea](https://git.chenx221.cyou)
 
 [Self-host Nextcloud](https://beta.chenx221.cyou)
 
 [Self-host Seafile](https://hub.chenx221.cyou)
 
-<del>[Server Status](https://grafana.chenx221.cyou)</del>
-
-[Software](https://disk.chenx221.cyou/?dir=Software)
+[Software]([https://disk.chenx221.cyou/?dir=Software](https://disk.chenx221.cyou/Software/))
 
 ---
 
