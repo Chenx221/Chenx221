@@ -8,9 +8,9 @@ Hello world
 
 [Ghost Blog](https://iloli.one)
 
-[Self-host Gitea](https://git.chenx221.cyou)
+<del>[Self-host Gitea](https://git.chenx221.cyou)</del> [Self-host GitLab](https://git.chenx221.cyou)
 
-[Self-host Nextcloud](https://beta.chenx221.cyou)
+<del>[Self-host Nextcloud](https://beta.chenx221.cyou)</del> [Self-host GitLab #2](https://git.iloli.one)
 
 [Self-host Seafile](https://hub.chenx221.cyou)
 
