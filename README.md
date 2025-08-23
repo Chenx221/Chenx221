@@ -1,6 +1,8 @@
 Hello world
 
-[OpenPGP key: CF688881332919EC04051361D7A9EC07024C3021](https://keys.openpgp.org/vks/v1/by-fingerprint/CF688881332919EC04051361D7A9EC07024C3021)
+[OpenPGP key #1: CF688881332919EC04051361D7A9EC07024C3021](https://keys.openpgp.org/vks/v1/by-fingerprint/CF688881332919EC04051361D7A9EC07024C3021)
+
+[OpenPGP key #2: AF20165765C575050A41FBEB1E09EE5BE6D6526E](https://keys.openpgp.org/vks/v1/by-fingerprint/AF20165765C575050A41FBEB1E09EE5BE6D6526E)
 
 ---
 
@@ -8,9 +10,7 @@ Hello world
 
 [Ghost Blog](https://iloli.one)
 
-<del>[Self-host Gitea](https://git.chenx221.cyou)</del> [Self-host GitLab](https://git.chenx221.cyou)
-
-<del>[Self-host Nextcloud](https://beta.chenx221.cyou)</del> [Self-host GitLab #2](https://git.iloli.one)
+[Self-host GitLab](https://git.chenx221.cyou)
 
 [Self-host Seafile](https://hub.chenx221.cyou)
 
