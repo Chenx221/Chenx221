@@ -16,6 +16,8 @@ Hello world
 
 [Software](https://disk.chenx221.cyou/Software/)
 
+[Server Status (nezha)](https://status.chenx221.cyou)
+
 ---
 
 没什么用的站点: https://locallhost.xyz https://rm-rf.wiki
