@@ -6,17 +6,17 @@ Hello world
 
 ---
 
-[WordPress Blog](https://blog.chenx221.cyou)
+[WordPress Blog](https://blog.chenx221.cyou) *
 
-[Ghost Blog](https://iloli.one)
+[Ghost Blog](https://iloli.one) *
+
+[Self-host Seafile](https://hub.chenx221.cyou) *
+
+[Software](https://disk.chenx221.cyou/Software/) *
 
 [Self-host GitLab](https://git.chenx221.cyou)
 
-[Self-host Seafile](https://hub.chenx221.cyou)
-
-[Software](https://disk.chenx221.cyou/Software/)
-
-[Server Status (nezha)](https://status.chenx221.cyou)
+*: 故障，服务提供商OrangeVPS ROA配置存在问题导致RPKI验证失败，api.iloli.one已做临时修复，其余站点等待恢复中
 
 ---
 
