@@ -16,6 +16,8 @@ Hello world
 
 [Self-host GitLab](https://git.chenx221.cyou)
 
+[Server Status](https://status.chenx221.cyou/)
+
 ---
 
 没什么用的站点: https://locallhost.xyz https://rm-rf.wiki
