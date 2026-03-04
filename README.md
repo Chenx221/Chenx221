@@ -20,6 +20,6 @@ Hello world
 
 ---
 
-没什么用的站点: https://locallhost.xyz https://rm-rf.wiki
+没什么用的站点: https://x221.de
 
 U2VsZi1ob3N0ZWQgY29taWMgc2VydmVyCmh0dHBzOi8va29tZ2EuY2hlbngyMjEuY3lvdQpndWVzdEBjaGVueDIyMS5jeW91CnBhc3N3b3JkMTIzCg==
